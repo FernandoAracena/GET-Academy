@@ -1,0 +1,14 @@
+C:\Users\Bruker\source\repos\Abaxrekruttering\bin\Debug\net6.0\Abaxrekruttering.exe
+C:\Users\Bruker\source\repos\Abaxrekruttering\bin\Debug\net6.0\Abaxrekruttering.deps.json
+C:\Users\Bruker\source\repos\Abaxrekruttering\bin\Debug\net6.0\Abaxrekruttering.runtimeconfig.json
+C:\Users\Bruker\source\repos\Abaxrekruttering\bin\Debug\net6.0\Abaxrekruttering.dll
+C:\Users\Bruker\source\repos\Abaxrekruttering\bin\Debug\net6.0\Abaxrekruttering.pdb
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\Abaxrekruttering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\Abaxrekruttering.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\Abaxrekruttering.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\Abaxrekruttering.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\Abaxrekruttering.dll
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\refint\Abaxrekruttering.dll
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\Abaxrekruttering.pdb
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\Abaxrekruttering.genruntimeconfig.cache
+C:\Users\Bruker\source\repos\Abaxrekruttering\obj\Debug\net6.0\ref\Abaxrekruttering.dll
