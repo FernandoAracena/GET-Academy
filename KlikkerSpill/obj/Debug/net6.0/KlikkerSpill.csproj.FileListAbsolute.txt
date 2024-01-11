@@ -1,0 +1,14 @@
+C:\Users\Bruker\source\repos\KlikkerSpill\bin\Debug\net6.0\KlikkerSpill.exe
+C:\Users\Bruker\source\repos\KlikkerSpill\bin\Debug\net6.0\KlikkerSpill.deps.json
+C:\Users\Bruker\source\repos\KlikkerSpill\bin\Debug\net6.0\KlikkerSpill.runtimeconfig.json
+C:\Users\Bruker\source\repos\KlikkerSpill\bin\Debug\net6.0\KlikkerSpill.dll
+C:\Users\Bruker\source\repos\KlikkerSpill\bin\Debug\net6.0\KlikkerSpill.pdb
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\KlikkerSpill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\KlikkerSpill.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\KlikkerSpill.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\KlikkerSpill.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\KlikkerSpill.dll
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\refint\KlikkerSpill.dll
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\KlikkerSpill.pdb
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\KlikkerSpill.genruntimeconfig.cache
+C:\Users\Bruker\source\repos\KlikkerSpill\obj\Debug\net6.0\ref\KlikkerSpill.dll

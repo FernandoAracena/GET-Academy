@@ -1,0 +1,14 @@
+C:\Users\Bruker\source\repos\Formkontrollsystem\bin\Debug\net6.0\Formkontrollsystem.exe
+C:\Users\Bruker\source\repos\Formkontrollsystem\bin\Debug\net6.0\Formkontrollsystem.deps.json
+C:\Users\Bruker\source\repos\Formkontrollsystem\bin\Debug\net6.0\Formkontrollsystem.runtimeconfig.json
+C:\Users\Bruker\source\repos\Formkontrollsystem\bin\Debug\net6.0\Formkontrollsystem.dll
+C:\Users\Bruker\source\repos\Formkontrollsystem\bin\Debug\net6.0\Formkontrollsystem.pdb
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\Formkontrollsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\Formkontrollsystem.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\Formkontrollsystem.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\Formkontrollsystem.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\Formkontrollsystem.dll
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\refint\Formkontrollsystem.dll
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\Formkontrollsystem.pdb
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\Formkontrollsystem.genruntimeconfig.cache
+C:\Users\Bruker\source\repos\Formkontrollsystem\obj\Debug\net6.0\ref\Formkontrollsystem.dll

@@ -1,0 +1,14 @@
+C:\Users\Bruker\source\repos\Lagerstyringssystem\bin\Debug\net6.0\Lagerstyringssystem.exe
+C:\Users\Bruker\source\repos\Lagerstyringssystem\bin\Debug\net6.0\Lagerstyringssystem.deps.json
+C:\Users\Bruker\source\repos\Lagerstyringssystem\bin\Debug\net6.0\Lagerstyringssystem.runtimeconfig.json
+C:\Users\Bruker\source\repos\Lagerstyringssystem\bin\Debug\net6.0\Lagerstyringssystem.dll
+C:\Users\Bruker\source\repos\Lagerstyringssystem\bin\Debug\net6.0\Lagerstyringssystem.pdb
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\Lagerstyringssystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\Lagerstyringssystem.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\Lagerstyringssystem.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\Lagerstyringssystem.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\Lagerstyringssystem.dll
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\refint\Lagerstyringssystem.dll
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\Lagerstyringssystem.pdb
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\Lagerstyringssystem.genruntimeconfig.cache
+C:\Users\Bruker\source\repos\Lagerstyringssystem\obj\Debug\net6.0\ref\Lagerstyringssystem.dll

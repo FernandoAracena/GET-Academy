@@ -1,0 +1,45 @@
+Certainly! Let's go through the code and understand how it works:
+
+1. **Interfaces and Commands:**
+   - `ICommand`: This is an interface with a single method, `Run`, which is implemented by each command class.
+
+   - `ClickCommand`, `UpgradeCommand`, `SuperUpgradeCommand`, `ExitCommand`: These are classes implementing the `ICommand` interface. 
+   Each class represents a specific command in the clicker game.
+
+2. **ClickerGame Class:**
+   - This class represents the state and behavior of the clicker game.
+   - It has private fields (`points`, `pointsPerClick`, `pointsPerClickIncrease`) to store the game state.
+   - Public methods (`Click`, `Upgrade`, `SuperUpgrade`) modify the game state based on user actions.
+   - The `Display` method is responsible for clearing the console and displaying the current game state.
+
+3. **CommandSet Class:**
+   - This class manages a set of commands (`ICommand` objects) and provides a method (`RunCommand`) to execute the appropriate command 
+   based on user input.
+   - The `commands` array holds instances of each command class.
+
+   - The `RunCommand` method takes a character representing the user's input and finds the corresponding command in the `commands` array. 
+   It then executes the `Run` method of that command.
+
+   - The `GetCommandKey` method is used to associate a predefined key with each command. This is necessary for comparison with the user's input.
+
+4. **Program Class (Main Method):**
+   - An instance of `ClickerGame` and `CommandSet` is created.
+
+   - Inside the `while (true)` loop, the game state is displayed, and the program waits for user input using `Console.ReadKey().KeyChar`.
+
+   - The user's input is then passed to the `RunCommand` method of the `CommandSet`, which finds the corresponding command and executes it.
+
+   - The loop continues, allowing the user to interact with the game until they choose to exit (`'X'` key).
+
+5. **User Commands:**
+   - `ClickCommand`: Increases the points in the game when the spacebar is pressed.
+
+   - `UpgradeCommand`: Upgrades the clicker, increasing the points gained per click when the `'K'` key is pressed.
+
+   - `SuperUpgradeCommand`: Upgrades the clicker further, increasing the points gained per click more than the regular upgrade when the 
+   `'S'` key is pressed.
+
+   - `ExitCommand`: Exits the application when the `'X'` key is pressed.
+
+This structure separates concerns and follows the principles of object-oriented programming, making the code more modular and easier to maintain.
+Each class has a specific responsibility, and the program flow is managed through interactions between these classes.
